@@ -4,7 +4,7 @@ class WorkerNavbar extends React.Component {
   constructor(props) {
     super(props);
   }
-
+   //this for the navbar of worker's feed and worker's profile  
   render() {
     return (
       <div>

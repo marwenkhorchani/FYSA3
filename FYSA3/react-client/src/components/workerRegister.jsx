@@ -50,7 +50,7 @@ class WorkerRegister extends Component {
         console.log("There's an error", err);
       });
   }
-
+  /// this for the worker create an account 
   render() {
     return (
       <div>

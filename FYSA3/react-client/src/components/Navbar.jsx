@@ -4,7 +4,7 @@ class Navbar extends React.Component {
   constructor(props) {
     super(props);
   }
-
+                        // this for the nevbar of home page 
   render() {
     return (
       <div>

@@ -35,6 +35,8 @@ class UserUpdate extends React.Component {
         console.log("There's an error", err);
       });
   }
+
+   // this for the updating user's profil 
   render() {
     return (
       <div>

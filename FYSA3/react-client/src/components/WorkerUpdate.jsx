@@ -38,6 +38,8 @@ class WorkerUpdate extends React.Component {
         console.log("There's an error", err);
       });
   }
+
+  // this for the worker it can update his profil
   render() {
     return (
       <div>

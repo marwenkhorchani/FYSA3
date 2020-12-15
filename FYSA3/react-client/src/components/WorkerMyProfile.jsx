@@ -7,6 +7,7 @@ class WorkerMyProfile extends React.Component {
     this.state = {};
   }
 
+  //this for the worker's profil    
   render() {
     return (
       <div>

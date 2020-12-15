@@ -32,9 +32,9 @@ class UserRegister extends Component {
       })
       .catch((err) => {
         console.log("There's an error", err);
-      });
+      }); 
   }
-
+    // this for the user to create a account
   render() {
     return (
       <div>

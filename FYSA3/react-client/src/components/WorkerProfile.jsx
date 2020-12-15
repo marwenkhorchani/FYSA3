@@ -14,7 +14,7 @@ class WorkerProfile extends React.Component {
   order() {
     this.setState({ display: !this.state.display });
   }
-
+      //this what the user see when he open the profil of worker 
   render() {
     if (!this.state.display) {
       return (
